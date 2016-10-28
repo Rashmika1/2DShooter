@@ -1,0 +1,5 @@
+* how do i set up the scene?
+	- i have an sprite for the player
+	- a sprite for the enemies
+	- the background is a quad
+	- we have a directional light in to it
